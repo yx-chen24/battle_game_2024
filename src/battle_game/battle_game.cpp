@@ -8,3 +8,5 @@ int main() {
   battle_game::App app(app_settings, &game_core);
   app.Run();
 }
+
+//增加了一些注释
